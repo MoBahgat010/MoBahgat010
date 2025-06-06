@@ -1,17 +1,16 @@
 <div align="center">
   <h1>👋 Hi, I'm Mohamed Bahgat!</h1>
-  <h3>Full-Stack Developer | Crafting Scalable & User-Centric Solutions from Egypt</h3>
+  <h3>Full-Stack Developer | Crafting Scalable & Intuitive Solutions</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
-I'm a passionate full-stack developer and computer engineering student at Cairo University, Egypt. I specialize in building innovative, scalable applications with a focus on seamless user experiences. My expertise spans modern web technologies, system design, and AI-driven solutions. I'm always eager to collaborate on impactful projects and explore new challenges in tech.
+I'm a passionate full-stack developer with a strong foundation in building innovative, scalable applications. My focus is on creating solutions that solve real-world problems and deliver seamless experiences. I'm always eager to collaborate on impactful projects and explore new challenges in tech.
 
-- 💼 **Currently working on:** Full-stack applications using React, Next.js, Django, and FastAPI
+- 💼 **Currently working on:** Full-stack application development
 - 🌱 **Learning:** Advanced AI techniques, cloud-native development, and scalable system architecture
 - 🤝 **Open to:** Open-source contributions, freelance opportunities, and innovative tech ventures
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamed-bego/) | [Email](mailto:mbahgat503@gmail.com) | [WhatsApp](https://wa.me/201023262649)
 
 ---
 
