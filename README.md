@@ -20,9 +20,8 @@ Hi there! 👋 I’m [Your Name], a passionate **Full-Stack Developer** with a s
 Feel free to explore my repositories and projects. I’m always open to collaborations, contributions, and learning opportunities. Let’s build something amazing together!
 
 📫 **Reach Me At:**  
-- [Email: youremail@example.com](mailto:youremail@example.com)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)
+- [Email: mbahgat503@gmail.com](mailto:mbahgat503@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-bego/)  
 
 ---
 
