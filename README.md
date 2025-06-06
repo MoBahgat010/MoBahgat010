@@ -84,20 +84,25 @@ I’m diving into the world of **Artificial Intelligence** 🤖, exploring:
 
 ## 🌐 Let’s Connect
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-bego/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mbahgat503@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/mohamed.bahgat.939326" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40" alt="Facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/201023262649" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" height="40" alt="WhatsApp logo" />
+    <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
+
 
 
 ---
