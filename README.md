@@ -1,3 +1,30 @@
+# 🌟 Welcome to My GitHub Profile! 🌟
+
+Hi there! 👋 I’m [Your Name], a passionate **Full-Stack Developer** with a strong focus on building scalable and efficient web applications. My tech stack includes:
+
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Django, Express.js, Node.js
+- **Database:** MongoDB, PostgreSQL, MySQL
+- **Tools & Workflow:** REST APIs, GraphQL, Docker, Git, CI/CD pipelines
+
+🔭 **What I’m Working On:**  
+- Developing dynamic and user-friendly web applications  
+- Exploring the latest advancements in React and Next.js  
+- Building robust backend systems with Django and Express.js  
+
+🌱 **What I’m Learning:**  
+- Optimizing performance in large-scale React applications  
+- Deep diving into advanced Django features  
+
+💼 **Let’s Connect:**  
+Feel free to explore my repositories and projects. I’m always open to collaborations, contributions, and learning opportunities. Let’s build something amazing together!
+
+📫 **Reach Me At:**  
+- [Email: youremail@example.com](mailto:youremail@example.com)  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [Portfolio](https://yourportfolio.com)
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
