@@ -1,5 +1,11 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
+</picture>
+
 Hi there! 👋 I’m **Mohamed Bahgat**, a passionate **Full-Stack Developer** with experience in creating dynamic and efficient web applications. I specialize in building modern and scalable solutions using some of the best tools and frameworks available.
 
 ---
@@ -105,8 +111,4 @@ I’m diving into the world of **Artificial Intelligence** 🤖, exploring:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
-</picture>
+
