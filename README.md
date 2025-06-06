@@ -31,7 +31,7 @@ I'm a passionate full-stack developer with a strong foundation in building innov
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="Django" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express.js" />
+  <img src="https://camo.githubusercontent.com/d35b2be3ea6a02bbfafa9ce47502a21a654e9c7b9e1b5d98738bf53f9f6b3597/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6b6f746c696e2c6a6176612c616e64726f696473747564696f2c677261646c652c632c6370702c63732c70792c68746d6c2c6373732c6a732c72656163742c706f73746d616e2c706f7374677265732c6e6f64656a732c657870726573732c6669676d612c666c75747465722c646172742c66697265626173652c6769742c6769746875622c6c696e75782c61726475696e6f" height="60" alt="Express.js" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
   <img width="25" />
