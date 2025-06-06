@@ -9,7 +9,7 @@
 I'm a passionate full-stack developer with a strong foundation in building innovative, scalable applications. My focus is on creating solutions that solve real-world problems and deliver seamless experiences. I'm always eager to collaborate on impactful projects and explore new challenges in tech.
 
 - 💼 **Currently working on:** Full-stack application development
-- 🌱 **Learning:** Advanced AI techniques, cloud-native development, and scalable system architecture
+- 🌱 **Learning:** Advanced AI techniques, and scalable system architecture
 - 🤝 **Open to:** Open-source contributions, freelance opportunities, and innovative tech ventures
 
 ---
@@ -111,6 +111,6 @@ Feel free to reach out to discuss projects, collaborations, or tech ideas!
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
   <p>Let's build something amazing together!</p>
 </div>
