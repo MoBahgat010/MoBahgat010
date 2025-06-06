@@ -1,4 +1,15 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+<h1 align="center">Hi 👋, I'm Mohamed Bahgat!</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Egypt</h3>
+
+---
+
+- 🌟 **I'm currently working on:** Building scalable web applications using Django REST Framework, ReactJS, and MongoDB.  
+- 🌱 **I'm currently learning:** AI tools like TensorFlow, advanced GSAP animations, and PyTorch for AI-based solutions.  
+- 🤝 **I'm open for collaboration:** Projects involving AI, WebSockets for real-time applications, or creative GSAP/ScrollTrigger animations.  
+- 🔗 **Check out my portfolio here:** [My Portfolio](https://github.com/MoBahgat010)  
+- 📫 **Reach me via email:** mbahgat503@gmail.com  
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph-dark.svg">
