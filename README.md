@@ -1,28 +1,34 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi there! 👋 I’m [Your Name], a passionate **Full-Stack Developer** with a strong focus on building scalable and efficient web applications. My tech stack includes:
+Hi there! 👋 I’m Mohamed Bahgat, a passionate **Full-Stack Developer** with experience in creating dynamic and efficient web applications. My favorite technologies include:
 
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Django, Express.js, Node.js
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Tools & Workflow:** REST APIs, GraphQL, Docker, Git, CI/CD pipelines
+## 💻 Technologies I Work With
 
-🔭 **What I’m Working On:**  
-- Developing dynamic and user-friendly web applications  
-- Exploring the latest advancements in React and Next.js  
-- Building robust backend systems with Django and Express.js  
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-🌱 **What I’m Learning:**  
-- Optimizing performance in large-scale React applications  
-- Deep diving into advanced Django features  
+---
 
-💼 **Let’s Connect:**  
-Feel free to explore my repositories and projects. I’m always open to collaborations, contributions, and learning opportunities. Let’s build something amazing together!
+## 🌱 Currently Learning
 
-📫 **Reach Me At:**  
-- [Email: mbahgat503@gmail.com](mailto:mbahgat503@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/mohamed-bego/)  
+I’m diving into the world of **Artificial Intelligence** 🤖, exploring:  
+- Machine Learning and Deep Learning  
+- Building AI-powered tools and applications  
+- Experimenting with frameworks like TensorFlow and PyTorch  
 
+---
+
+## 📫 Let’s Connect
+
+I’m always excited to collaborate and learn from others. Feel free to reach out or explore my work:
 ---
 
 <div align="left">
