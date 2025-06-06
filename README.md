@@ -3,11 +3,9 @@
 
 ---
 
-- 🌟 **I'm currently working on:** Building scalable web applications using Django REST Framework, ReactJS, and MongoDB.  
-- 🌱 **I'm currently learning:** AI tools like TensorFlow, advanced GSAP animations, and PyTorch for AI-based solutions.  
-- 🤝 **I'm open for collaboration:** Projects involving AI, WebSockets for real-time applications, or creative GSAP/ScrollTrigger animations.  
-- 🔗 **Check out my portfolio here:** [My Portfolio](https://github.com/MoBahgat010)  
-- 📫 **Reach me via email:** mbahgat503@gmail.com  
+- 🌟 **I'm currently working on:** Developing innovative and user-friendly applications.  
+- 🌱 **I'm currently learning:** Artificial intelligence and scalable system design.
+- 🤝 **I'm open for collaboration or opportunities:** Excited to contribute to impactful projects and join a dynamic team.  
 
 ---
 
@@ -16,8 +14,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MoBahgat010/MoBahgat010/output/pacman-contribution-graph.svg">
 </picture>
-
-Hi there! 👋 I’m **Mohamed Bahgat**, a passionate **Full-Stack Developer** with experience in creating dynamic and efficient web applications. I specialize in building modern and scalable solutions using some of the best tools and frameworks available.
 
 ---
 
@@ -90,15 +86,6 @@ Hi there! 👋 I’m **Mohamed Bahgat**, a passionate **Full-Stack Developer** w
 
 ---
 
-## 🌱 Currently Learning
-
-I’m diving into the world of **Artificial Intelligence** 🤖, exploring:  
-- Machine Learning and Deep Learning  
-- Building AI-powered tools and applications  
-- Experimenting with frameworks like TensorFlow and PyTorch  
-
----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
@@ -118,8 +105,4 @@ I’m diving into the world of **Artificial Intelligence** 🤖, exploring:
   </a>
 </div>
 
-
-
 ---
-
-
