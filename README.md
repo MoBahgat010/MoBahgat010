@@ -104,6 +104,9 @@ Feel free to reach out to discuss projects, collaborations, or tech ideas!
   <a href="https://wa.me/201023262649" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp" />
   </a>
+  <a href="https://discord.com/users/1075129199985164398" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
+  </a>
 </div>
 
 ---
