@@ -111,6 +111,6 @@ Feel free to reach out to discuss projects, collaborations, or tech ideas!
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
   <p>Let's build something amazing together!</p>
 </div>
