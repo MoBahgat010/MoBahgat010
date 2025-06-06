@@ -86,18 +86,19 @@ I’m diving into the world of **Artificial Intelligence** 🤖, exploring:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-bego/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mbahgat503@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:mbahgat503@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail logo" />
   </a>
   <a href="https://www.facebook.com/mohamed.bahgat.939326" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40" alt="Facebook logo" />
   </a>
-  <a href="+201023262649" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/201023262649" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" height="40" alt="WhatsApp logo" />
   </a>
 </div>
+
 
 ---
 
