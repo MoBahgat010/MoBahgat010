@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>👋 Hi, I'm Mohamed Bahgat!</h1>
-  <h3>Full-Stack Developer | Crafting Scalable & Intuitive Solutions</h3>
+  <h1>Hi, I'm Mohamed Bahgat!</h1>
+  <h3>AI Engineer and Data Scientist</h3>
 </div>
 
 ---
 
-### 🚀 About Me
-I'm a passionate full-stack developer with a strong foundation in building innovative, scalable applications. My focus is on creating solutions that solve real-world problems and deliver seamless experiences. I'm always eager to collaborate on impactful projects and explore new challenges in tech.
+### About Me
 
-- 💼 **Currently working on:** Full-stack application development
-- 🌱 **Learning:** Advanced AI techniques, and scalable system architecture
-- 🤝 **Open to:** Open-source contributions, freelance opportunities, and innovative tech ventures
+I'm a passionate AI Engineer with a strong interest in building intelligent systems powered by machine learning and large language models. I enjoy turning cutting-edge AI research into practical, scalable solutions that solve real-world problems. I'm always eager to learn, collaborate, and contribute to impactful AI projects.
+
+- 🤖 **Currently working on:** AI agents, LLM applications, and RAG systems
+- 🤝 **Open to:** AI research, open-source contributions, and innovative AI projects
 
 ---
 
