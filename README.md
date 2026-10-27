@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Mohamed Bahgat!</h1>
+  <h1>Hi, I'm Mohammad Ahmad!</h1>
   <h3>AI Engineer and Data Scientist</h3>
 </div>
 
